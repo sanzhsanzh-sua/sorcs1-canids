@@ -1,0 +1,6 @@
+*.bam
+*.bai
+*.fna
+*.fna.fai
+vcf/*PARTIAL*
+.DS_Store

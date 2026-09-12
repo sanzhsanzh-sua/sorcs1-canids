@@ -1,0 +1,30 @@
+system	codon_local	residue_fulllen	genomic	ref_codon	ref_aa	effect	fennec_codon	fennec_aa	fennec_maxAF	fennec_nCall	fennec_conf	dog_village_codon	dog_village_aa	dog_village_maxAF	dog_village_nCall	dog_village_conf	dog_wolf_codon	dog_wolf_aa	dog_wolf_maxAF	dog_wolf_nCall	dog_wolf_conf	groups_diff_from_ref	intergroup_diff
+canfam31	128	318	18780470,18780469,18780468	GTA	V	synonymous	GTA	V	0.0	6	high	GTA	V	0.0	10	high	GTA	V	0.0	10	high		
+canfam31	131	321	18780461,18780460,18780459	AGA	R	synonymous	AGG	R	1.0	4	low	AGA	R	0.0	10	high	AGA	R	0.0	10	high		
+canfam31	212	402	18736083,18736082,18736081	GCA	A	synonymous	GCG	A	0.917	6	high	GCA	A	0.45	10	high	GCA	A	0.5	10	high		
+canfam31	316	506	18721069,18721068,18721067	CGT	R	synonymous	CGT	R	0.25	4	low	CGT	R	0.0	10	high	CGT	R	0.0	10	high		
+canfam31	321	511	18721054,18721053,18721052	CCG	P	synonymous	CCG	P	0.25	6	high	CCG	P	0.0	10	high	CCG	P	0.0	10	high		
+canfam31	323	513	18721048,18721047,18721046	ACG	T	synonymous	ACA	T	0.75	6	high	ACG	T	0.0	10	high	ACG	T	0.0	10	high		
+canfam31	327	517	18721036,18721035,18721034	GGA	G	synonymous	GGG	G	1.0	5	high	GGA	G	0.35	10	high	GGA	G	0.1	10	high		
+canfam31	334	524	18721015,18721014,18721013	CTG	L	synonymous	CTG	L	0.0	5	high	CTG	L	0.0	10	high	CTG	L	0.0	10	high		
+canfam31	351	541	18713255,18713254,18713253	ACG	T	synonymous	NNN	X	0.0	2	low	ACG	T	0.0	10	high	ACG	T	0.0	10	high		
+canfam31	378	568	18712915,18712914,18712913	AGC	S	missense	AAT	N	1.0	3	low	AGC	S	0.0	10	high	AGC	S	0.0	10	high	fennec	yes
+canfam31	435	625	18709329,18709328,18709327	AGC	S	missense	AGC	S	0.0	4	low	AAC	N	0.55	10	high	AGC	S	0.1	10	high	dog_village	yes
+canfam31	483	673	18707455,18707454,18707453	TTC	F	synonymous	TTT	F	1.0	5	high	TTC	F	0.0	10	high	TTC	F	0.0	10	high		
+canfam31	490	680	18707434,18707433,18707432	GAG	E	synonymous	GAG	E	0.0	4	low	GAG	E	0.0	10	high	GAG	E	0.25	10	high		
+canfam31	592	782	18691347,18691346,18691345	ACG	T	synonymous	ACG	T	0.167	3	low	ACG	T	0.0	10	high	ACG	T	0.35	10	high		
+canfam31	626	816	18691245,18691244,18691243	GAG	E	synonymous	GAG	E	0.167	3	low	GAG	E	0.0	10	high	GAG	E	0.0	10	high		
+canfam31	650	840	18670828,18670827,18670826	GAT	D	synonymous	GAC	D	1.0	3	low	GAC	D	0.65	10	high	GAT	D	0.35	10	high		
+canfam31	667	857	18670777,18670776,18670775	GAT	D	synonymous	GAC	D	0.833	3	low	GAT	D	0.0	10	high	GAT	D	0.0	10	high		
+canfam31	706	896	18663005,18663004,18663003	CAT	H	synonymous	CAT	H	0.0	4	low	CAT	H	0.0	10	high	CAT	H	0.4	10	high		
+canfam31	756	946	18660701,18660700,18660699	TCG	S	synonymous	TCA	S	1.0	5	high	TCA	S	0.85	10	high	TCA	S	1.0	10	high		
+canfam31	758	948	18660695,18660694,18660693	AAG	K	synonymous	AAA	K	1.0	5	high	AAG	K	0.0	10	high	AAG	K	0.0	10	high		
+canfam31	792	982	18653939,18653938,18653937	TCT	S	synonymous	NNN	X	0.0	2	low	TCT	S	0.0	10	high	TCT	S	0.0	10	high		
+canfam31	817	1007	18653864,18653863,18653862	CGA	R	synonymous	CGA	R	0.0	4	low	CGA	R	0.0	10	high	CGA	R	0.0	10	high		
+canfam31	837	1027	18651094,18651093,18651092	GCG	A	synonymous	NNN	X	0.0	2	low	GCG	A	0.0	10	high	GCG	A	0.0	10	high		
+canfam31	882	1072	18641283,18641282,18641281	TCA	S	synonymous	TCG	S	1.0	6	high	TCA	S	0.0	10	high	TCA	S	0.0	10	high		
+canfam31	884	1074	18641277,18641276,18641275	CAC	H	synonymous	CAC	H	0.0	6	high	CAC	H	0.0	9	high	CAC	H	0.0	10	high		
+canfam31	898	1088	18641235,18641234,18641233	GCC	A	synonymous	GCC	A	0.2	4	low	GCC	A	0.0	10	high	GCC	A	0.0	10	high		
+canfam31	905	1095	18624549,18624548,18624547	CTG	L	synonymous	TTG	L	1.0	4	low	CTG	L	0.0	10	high	CTG	L	0.0	10	high		
+canfam31	910	1100	18624534,18624533,18624532	CCG	P	synonymous	CCG	P	0.0	4	low	CCG	P	0.1	10	high	CCG	P	0.0	10	high		
+canfam31	1010	1200	18622306,18622305,18622304	GTA	V	synonymous	GTA	V	0.0	3	low	GTA	V	0.0	10	high	GTA	V	0.0	10	high		

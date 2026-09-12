@@ -1,0 +1,8 @@
+system	codon_local	residue_fulllen	genomic	ref_codon	ref_aa	effect	fox_tame_codon	fox_tame_aa	fox_tame_maxAF	fox_tame_nCall	fox_tame_conf	fox_aggr_codon	fox_aggr_aa	fox_aggr_maxAF	fox_aggr_nCall	fox_aggr_conf	groups_diff_from_ref	intergroup_diff
+vulvul3	147	147	96508172,96508171,96508170	CAG	Q	synonymous	CAG	Q	0.0	3	high	CAG	Q	0.125	4	high		
+vulvul3	246	246	96241855,96241854,96241853	TGC	C	synonymous	TGT	C	1.0	3	high	NNN	X	0.0	2	high		
+vulvul3	320	320	96176086,96176085,96176084	CAG	Q	synonymous	CAG	Q	0.125	4	high	CAA	Q	0.667	3	high		
+vulvul3	372	372	96133342,96133341,96133340	TTC	F	synonymous	TTT	F	0.833	3	high	NNN	X	0.0	2	high		
+vulvul3	488	488	96116059,96116058,96116057	ATG	M	synonymous	ATG	M	0.167	3	high	NNN	X	0.0	1	low		
+vulvul3	1069	1069	96035235,96035234,96035233	TTG	L	synonymous	NNN	X	0.0	1	low	NNN	X	0.0	1	low		
+vulvul3	1101	1101	96018735,96018734,96018733	TTG	L	synonymous	TTG	L	0.167	3	high	CTG	L	1.0	3	high		

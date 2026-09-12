@@ -1,5 +1,10 @@
 # SORCS1 у псовых — результаты
 
+[![Report](https://img.shields.io/badge/report-HTML-1f6f6b)](https://htmlpreview.github.io/?https://github.com/sanzhsanzh-sua/sorcs1-canids/blob/main/SorCS1_report.html)
+[![Gene](https://img.shields.io/badge/gene-SORCS1-0f4d4a)](https://www.uniprot.org/uniprotkb/Q8WY21)
+[![Species](https://img.shields.io/badge/genera-Canis%20%7C%20Vulpes-blue)](#)
+[![Key finding](https://img.shields.io/badge/key%20finding-S568N-a53f2c)](summaries/S568N_validation.md)
+
 Структурная биоинформатика SorCS1 в трёх группах: фенек (n=10), лисы Беляева
 (5 ручных / 4 агрессивных), домашние собаки + волки (20 из 722-геномного набора).
 
